@@ -1,0 +1,4 @@
+- https://huggingface.co/docs/peft/package_reference/config
+- https://huggingface.co/docs/peft/package_reference/lora
+- https://huggingface.co/docs/transformers/main/en/main_classes/model#transformers.PreTrainedModel.save_pretrained
+- https://huggingface.co/docs/transformers/main_classes/text_generation
