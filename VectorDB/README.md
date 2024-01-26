@@ -18,3 +18,6 @@ Vector databases are more full-featured, more scalable, and more performant.
 
 
 ![image](https://github.com/shekharbiswas/GenAI/assets/32758439/4ad13cb0-5225-4e0f-a5b5-3f8aefb5c6f0)
+
+
+![image](https://github.com/shekharbiswas/GenAI/assets/32758439/ae72789c-a5fc-440d-a16f-ae2489614c01)
