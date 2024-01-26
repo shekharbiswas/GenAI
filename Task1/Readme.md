@@ -36,3 +36,8 @@ Prompt template that instructs the LLM to generate a concise summary based on th
 - Cuisine Type
 - Create the Prompt Template: Design a prompt that incorporates these inputs. Use brackets to show where the inputs will be injected.
 - Craft the Prompt: Write a clear, concise instruction for the LLM. The goal is to generate a summary of reviews for a specified restaurant and cuisine.
+
+## Guide
+
+**Best pratices for prompt engineering**
+https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api
