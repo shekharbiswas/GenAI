@@ -1,5 +1,8 @@
 # Designing Generative AI Features with Prompt Templates
 
+![image](https://github.com/shekharbiswas/GenAI/assets/32758439/0eeeab53-d3bf-4485-8671-8dcc423f3be5)
+
+
 One way to start designing applications that leverage Generative AI is by designing prompt templates. 
 This a crucial first step in creating applications or software features that use large language models (LLMs) for several reasons:
 
