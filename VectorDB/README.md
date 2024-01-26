@@ -8,3 +8,8 @@ There are three main types of tools for vector search:
 
 
 ![image](https://github.com/shekharbiswas/GenAI/assets/32758439/84f4532d-8071-45ca-bcf6-c4cbef00341d)
+
+
+
+
+![image](https://github.com/shekharbiswas/GenAI/assets/32758439/4ad13cb0-5225-4e0f-a5b5-3f8aefb5c6f0)
