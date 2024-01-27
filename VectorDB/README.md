@@ -68,3 +68,6 @@ The average search time on HNSW is proportional to log(number of vectors in the 
 
 
 Because HNSW takes a significant amount of RAM and time to build, consider that when deciding what kind of index to choose. Fortunately, there is a PQ-based variation of HNSW called HNSW_PQ that gives great performance and good recall with a lot less memory than straight HNSW; it has a small loss of recall due to the lossy compression of PQ.
+
+
+![image](https://github.com/shekharbiswas/GenAI/assets/32758439/f1eeb611-fab4-441d-8f0e-5057a4073755)
